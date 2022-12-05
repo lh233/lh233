@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lh233
 - 👀 I’m interested in Kernel，drivers
-- 🌱 I’m currently learning Linux kernel,SMP，ebpf
+- 🌱 I’m currently learning Linux kernel,SMP,ebpf,ftrace
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
